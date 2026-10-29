@@ -9,7 +9,6 @@
 <br>
 
 [![X](https://img.shields.io/badge/Follow-@LmaoKittyCat-black?style=for-the-badge&logo=x)](https://x.com/LmaoKittyCat)
-[![Deployed on](https://img.shields.io/badge/Deployed_on-Vercel-black?style=for-the-badge&logo=vercel)](#)
 
 <br>
 
@@ -44,7 +43,7 @@ Built for the people who get it.
 - **Next.js** — Framework
 - **TypeScript** — Language
 - **Tailwind CSS** — Styling
-- **Vercel** — Deployment
+- **Launch** — Pangea
 
 ## License
 
