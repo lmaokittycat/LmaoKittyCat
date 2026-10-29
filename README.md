@@ -4,6 +4,8 @@
 
 **Lmao on everything. That’s the project.**
 
+**CA: 8Nszx4NYWFxysuf7QuFMqY5oMMBjcHeRizyVQKuqpump**
+
 
 <img src="https://i.postimg.cc/W4HNXjg0/file-000000000be48207b1fbe2242cf0c2d4.png" width="280" alt="Lmao Kitty Cat Logo">
 
